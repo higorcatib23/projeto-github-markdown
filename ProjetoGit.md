@@ -26,4 +26,5 @@
 * Postman: Uma ferramenta para testar APIs, facilitando o desenvolvimento e a depuração de serviços web. [📃](https://www.postman.com/downloads/)
 
 ## Obrigado por chegar até aqui !!! 
+
 ![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV5N2VicXQwOGt3MzhqMmlpY2YwNmJrOXU4NnB4MmZmc2NjZTZyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17lOrUQdxU1UHoXz1m/giphy.gif)
