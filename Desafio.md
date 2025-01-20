@@ -3,7 +3,7 @@
 ## **10 melhores ferramentas de programação**
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJjZzgyb3Z0MDN6NTdkMWE3c3cxNmthdHo2OHRhYzA0eWoyaWczMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
----
+----
 
 * Visual Studio Code: Um editor de código popular com suporte para várias linguagens e muitos recursos úteis. [💻](https://code.visualstudio.com/)
 
